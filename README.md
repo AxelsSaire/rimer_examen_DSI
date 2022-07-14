@@ -1,1 +1,1 @@
-# rimer_examen_DSI
+# Primer parcial examen de desarrollo de software I
